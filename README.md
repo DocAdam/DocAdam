@@ -1,7 +1,7 @@
 ### Hello 👋
 I'm Adam Pugh (he/him), content creator, editor, and fan of open source projects. 
 
-I currently work remotely as a Senior Manager of  Technical Writing at Jack Henry & Associates, where I lead a team of writers and leaders. We primarily create help content in the Fintech space using DITA and XML with a focus on reuse. We are flexible and work in Agile and any other process necessary to create great content.
+I currently work remotely as a Technical Writing Manager where I lead a team of writers and leaders.
 
 I enjoy editing and contributing to open source projects in Git.
 
