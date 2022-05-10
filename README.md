@@ -1,7 +1,7 @@
 ### Hello 👋
 I'm Adam Pugh (he/him), content creator, editor, and fan of open source projects. 
 
-I currently work remotely as a Technical Writing Manager where I lead a team of writers and leaders.
+I currently work remotely as a Documentation Manager leading a team of writers at Meta.
 
 I enjoy editing and contributing to open source projects in Git.
 
