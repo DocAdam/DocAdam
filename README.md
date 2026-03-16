@@ -1,23 +1,21 @@
-### Hello 👋
-I'm Adam Pugh (he/him), content creator, editor, and fan of open source projects. 
+# Hello 👋
 
-I currently work remotely as a Documentation Engineer at Meta.
+I'm Adam Pugh (he/him), a Documentation Engineer focused on technical writing, information architecture, analytics, and help systems.
 
-I enjoy editing and contributing to open source projects in Git.
+I currently work remotely at Meta, where I create and improve documentation for complex internal systems.
 
-If I've helped you out with some editing and you want to say thanks - you can send me some music from my [Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/2JKR4PACHA65B?ref_=wl_share).
+My work tends to sit at the intersection of:
 
-Check out my online shop <a href="https://vinyljunction.com" target="_blank">Vinyl Junction</a> for vintage cassettes, records, and books.
+- technical writing
+- documentation systems
+- content structure
+- analytics and reporting
+- practical tooling and docs-as-code workflows
 
-<!--
-Here are some ideas to get you started:
+I also build and maintain independent projects, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [adamthepugh.com](https://adamthepugh.com/) — my portfolio site
+- [TeraCreators Help](https://docadam.github.io/TeraCreators-Help/) — a multi-guide game help project built with Docusaurus
+- [Vinyl Junction](https://vinyljunction.com/) — my long-running shop for vintage cassettes, records, and books
+
+I enjoy improving content, structure, and usability — especially when the source material is complicated, scattered, or hard to maintain.
