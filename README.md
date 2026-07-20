@@ -1,21 +1,28 @@
 # Hello 👋
 
-I'm Adam Pugh (he/him), a Documentation Engineer focused on technical writing, information architecture, analytics, and help systems.
+I'm Adam Pugh (he/him), a senior documentation engineer and technical writing leader focused on making complex software systems easier to understand, use, and maintain.
 
-I currently work remotely at Meta, where I create and improve documentation for complex internal systems.
+My work spans:
 
-My work tends to sit at the intersection of:
+- technical writing and product documentation
+- documentation operations and content governance
+- information architecture and knowledge systems
+- documentation analytics, reporting, and content health
+- docs-as-code workflows, automation, and practical tooling
 
-- technical writing
-- documentation systems
-- content structure
-- analytics and reporting
-- practical tooling and docs-as-code workflows
+My work at Meta has focused on documentation for internal Recruiting platforms supporting the hiring lifecycle from sourcing through onboarding. I partner with Product, Engineering, Recruiting Operations, and HR teams to turn product changes and complex workflows into clear, maintainable guidance.
 
-I also build and maintain independent projects, including:
+Before Meta, I spent 17 years at Jack Henry, progressing from technical writer to technical writing management. I built and led documentation teams, supported documentation across large software portfolios, and worked with release documentation, online help, API documentation, structured authoring, analytics, and GitHub-based publishing.
 
-- [adamthepugh.com](https://adamthepugh.com/) — my portfolio site
-- [TeraCreators Help](https://docadam.github.io/TeraCreators-Help/) — a multi-guide game help project built with Docusaurus
-- [Vinyl Junction](https://vinyljunction.com/) — my long-running shop for vintage cassettes, records, and books
+## Selected projects
 
-I enjoy improving content, structure, and usability — especially when the source material is complicated, scattered, or hard to maintain.
+- [adamthepugh.com](https://adamthepugh.com/) — My portfolio, including documentation case studies, writing samples, analytics work, and professional experience.
+- [TeraCreators Help](https://docadam.github.io/TeraCreators-Help/) — A multi-guide help system built with Docusaurus from scattered, community-sourced information.
+- [Vinyl Junction](https://www.vinyljunction.com/) — My long-running vintage media business covering records, cassettes, books, and collectible media.
+
+I’m especially interested in documentation systems that make complicated, scattered, or difficult-to-maintain information more usable.
+
+## Connect
+
+- [Portfolio](https://adamthepugh.com/)
+- [LinkedIn](https://www.linkedin.com/in/adampugh/)
